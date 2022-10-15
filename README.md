@@ -1,8 +1,9 @@
 # Redis-GettingStarted
 
 1. Install Redis
-2. Install Dependencies by running command       npm run dev
-3.App starts on Port 5000
+2. Install Dependencies by running command       npm install
+3. to strat App run command npm run dev
+4.App starts on Port 5000
 
 //overview
 
